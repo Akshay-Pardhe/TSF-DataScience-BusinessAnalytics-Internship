@@ -8,3 +8,13 @@ This repository contains the projects I've worked on as a part of The Sparks Fou
 
 #### *Objective to achieve:*
 What will be predicted score if a student studies for 9.25 hrs/ day?
+
+
+### Task 2- Prediction using Unsupervised ML
+● Use R or Python
+
+#### *Objective to achieve:*
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+
+
